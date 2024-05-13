@@ -1,0 +1,11 @@
+3122560022- Nguyễn Việt Hoàng : 
+        +) map + ppt
+3122410489 - Lê Huỳnh Trúc Vy :
+	+)  hình ảnh nhân vật, với kẻ địch (animation hoạt ảnh đứng chạy) + báo cáo
+3122410111 - Trình Định Hiệp : 
+	+) bắn đạn và lựu đạn tương tác địch với nhân vật + báo cáo
+3122410446 - Huỳnh Ngọc Tuấn : 
+	+) tương tác giữa  vật và map + báo cáo
+3122410174 - Thái Minh Khang :
+	+) di chuyển nhân vật + tương tác giữa hộp tiếp máu và đạn dược + báo cáo
+	Nhóm 3
